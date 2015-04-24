@@ -95,8 +95,8 @@
                     <target>http://api.run.pivotal.io</target>
                     <org>Lybes</org>
                     <space>development</space>
-                    <appname>holaMundoMWM_versiona</appname>
-                    <url>appholamundoMWM-test.cfapps.io</url>
+                    <appname>holaMundoMWM_versionb</appname>
+                    <url>appholamundoMWM-production.cfapps.io</url>
                     <memory>512</memory>
                     <instances>1</instances>
                     <services>

@@ -65,6 +65,7 @@ public class DBClient {
             result+="<td>"+rs.getString("Address")+"</td>";
             result+="<td>"+rs.getString("Name")+"</td>";
             result+="</tr>";
+            result+="<br><p>Esto es un saludo</p>";
         }
         result+="</table>";
         rs.close();
