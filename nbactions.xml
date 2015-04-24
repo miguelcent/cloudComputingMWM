@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<actions>
+        <action>
+            <actionName>CUSTOM-despliegue en Cloud Foundry</actionName>
+            <displayName>despliegue en Cloud Foundry</displayName>
+            <goals>
+                <goal>cf:push</goal>
+            </goals>
+        </action>
+    </actions>
